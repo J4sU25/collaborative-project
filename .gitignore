@@ -1,2 +1,2 @@
 "__pycache__/" 
-"# Ignora archivos de log *log# ignora la carpeta "no_respaldar" no respaldar/" 
+"*.pyc" 
