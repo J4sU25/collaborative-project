@@ -1,5 +1,2 @@
-# Ignora archivos de log
-*.log
-
-# Ignora la carpeta "no_respaldar"
-no_respaldar/
+"__pycache__/" 
+"# Ignora archivos de log *log# ignora la carpeta "no_respaldar" no respaldar/" 
